@@ -23,9 +23,6 @@ This Smart Mirror Project display by default:
 * News;
 
 
-Screenshots
+Screenshots:
 
-
-```
-![alt text](https://github.com/darthnox123/smart-mirror-clone/blob/main/image/README/1654728282070.png?raw=true)
-```
+![1654728282070](https://file+.vscode-resource.vscode-cdn.net/home/francisco/Desktop/smart-mirror/smart-mirror-clone/image/README/1654728282070.png)
