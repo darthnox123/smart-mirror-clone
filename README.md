@@ -13,3 +13,16 @@ The Stack of this is project:
 
 
 This Smart Mirror Project display by default:
+
+* Time and Date;
+* Sports Results;
+
+* Traffic;
+
+* Weather;
+* News;
+
+
+Screenshots:
+
+![1654728282070](https://file+.vscode-resource.vscode-cdn.net/home/francisco/Desktop/smart-mirror/smart-mirror-clone/image/README/1654728282070.png)
